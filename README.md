@@ -1,4 +1,4 @@
-Here I will demonstrate hw does Agglomerative Clustering and DBSCAN works!
+Here I will demonstrate how agglomerative clustering and DBSCAN work!
 
 
-Later I will update this README file ...)
+I will update this README file later...)
